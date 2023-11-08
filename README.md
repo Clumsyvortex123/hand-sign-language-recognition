@@ -1,5 +1,7 @@
 ﻿# hand-sign-language-recognition
 
 
-https://github.com/Clumsyvortex123/hand-sign-language-recognition/assets/91614556/d7fd4ee6-4c43-40f3-8b52-6f6c68a56232
 
+
+![signlanguage](https://github.com/Clumsyvortex123/hand-sign-language-recognition/assets/91614556/3d49aa7e-90bc-4938-8698-f3fcbcf098bc)
+![signlanguage1](https://github.com/Clumsyvortex123/hand-sign-language-recognition/assets/91614556/01c822c7-55c7-46ae-9798-7f426d2f1dcb)
